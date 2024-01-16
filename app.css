@@ -1,0 +1,12 @@
+body {
+    background-color: #f4f4f4;
+}
+
+img {
+    object-position: top;
+    aspect-ratio: 2 / 1;
+}
+
+#points {
+    border-style: solid;
+}
